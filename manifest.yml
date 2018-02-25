@@ -1,0 +1,7 @@
+---
+applications:
+- name: pewpew
+  instances: 1
+  random-route: true
+  timeout: 160
+  buildpack: staticfile_buildpack
